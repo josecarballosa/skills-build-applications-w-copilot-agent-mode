@@ -1,2 +1,2 @@
-# Backend requirements for OctoFit Tracker
+# Corrected requirements for OctoFit Tracker
 Django>=3.2,<4.0
